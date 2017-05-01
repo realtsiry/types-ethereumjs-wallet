@@ -1,0 +1,11 @@
+{
+  "name": "@types/ethereumjs-wallet",
+  "version": "1.0.0",
+  "description": "This package contains type definitions for ethereumjs-wallet",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tsiryid@gmail.com",
+  "license": "ISC"
+}
